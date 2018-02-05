@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="junit-4.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/pilotes/junit-4.12.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/pilotes/mockito-all-2.0.2-beta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/pilotes/mockito-all-2.0.2-beta.jar!/" />
+    </SOURCES>
+  </library>
+</component>
